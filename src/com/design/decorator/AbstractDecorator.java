@@ -15,6 +15,7 @@ public class AbstractDecorator implements Hero{
         this.hero = hero;
     }
 
+
     @Override
     public void outHeroInfo() {
         hero.outHeroInfo();

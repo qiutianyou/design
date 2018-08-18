@@ -11,4 +11,5 @@ package com.design.decorator;
 public interface Hero {
     //输出英雄的信息
     void outHeroInfo();
+
 }
